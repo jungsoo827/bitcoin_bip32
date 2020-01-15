@@ -16,4 +16,6 @@ dependencies:
 
 dev_dependencies:
   test: ^1.5.1
+#  pointycastle:
+#    path: ../pointycastle-jungsoo827
 
